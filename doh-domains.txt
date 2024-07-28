@@ -374,7 +374,6 @@ dns.murgi.de
 dns.muxinghe.cn
 dns.mzrme.cn
 dns.narl.app
-dns.nas-server.ru
 dns.neilzone.co.uk
 dns.neubsi.at
 dns.nextdns.io
