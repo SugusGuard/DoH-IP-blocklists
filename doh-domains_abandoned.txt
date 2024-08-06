@@ -56,6 +56,7 @@ dns-secondary.cloudnx.cloud
 dns-weblock.wevpn.com
 dns.233py.com.cdn.cloudflare.net
 dns.5ososea.com
+dns.7sec.com.br
 dns.aaflalo.me
 dns.aaytorr.com
 dns.anonymous.pw
@@ -173,6 +174,7 @@ fi.doh.dns.snopyta.org
 groupy.ga
 himedns.com
 hk.rslvr.eu
+home27.duckdns.org
 hydra.plan9-ns1.com
 hydroxlab.ru.com
 i.233py.com.a.bdydns.com
