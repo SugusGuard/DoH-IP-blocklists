@@ -132,7 +132,6 @@ clearweb.woodbridge.club
 clientdns3.softcom.net
 cloud.198.games
 cloud.samutz.com
-cloud.tezoi.com
 cloudflare-dns.com
 cloudns.bosco.ovh
 cluster-0.gac.edu
@@ -805,7 +804,6 @@ kr2.ooroot.com
 kracon.anycast.censurfridns.dk
 kracon.anycast.uncensoreddns.org
 kronos.plan9-dns.com
-krtekvpn.duckdns.org
 las01.dnscry.pt
 lastentarvike.fi
 lax01.dnscry.pt
@@ -897,7 +895,6 @@ ord01.dnscry.pt
 ordns.he.net
 ore-dns.bitdefender.net
 orpi.privado.ovh
-osefcorp.duckdns.org
 outdoorchair.us
 p0.freedns.controld.com
 p1.freedns.controld.com
@@ -1030,7 +1027,6 @@ tpe01.dnscry.pt
 trf01.dnscry.pt
 truta.org
 ttag.dns.nomu.pw
-tuandns.duckdns.org
 tungdnsne.duckdns.org
 tw2.ooroot.com
 tx.teradns.org
