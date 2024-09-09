@@ -114,7 +114,6 @@ dns.post-factum.tk
 dns.privilab.net
 dns.pumplex.com
 dns.repressoh.it
-dns.sarak.as
 dns.stvsk.ml
 dns.surfshark.com
 dns.truong.fi
@@ -227,7 +226,6 @@ thanos.pleumkungz.com
 tk31z.com
 tls-dns-u.odvr.dns-oarc.net
 tundranet.hec.to
-tungdnsne.duckdns.org
 uf-dns.lista.my.id
 uk.adhole.org
 uradoori.org
