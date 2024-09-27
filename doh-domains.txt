@@ -969,7 +969,6 @@ safe.dot.dns.yandex.net
 safeservedns.com
 sandbox.opendns.com
 sbdns.co.in
-sby-doh.limotelu.org
 sdns.233py.com
 sdns22.gkonuralp.com
 secondary.dns.yandex.ru
