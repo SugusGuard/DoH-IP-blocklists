@@ -30,7 +30,6 @@ addns1.m-it.ro
 adfree.usableprivacy.net
 adfreedns.top
 adg.jnorton.us
-adg.rokh.biz
 adg.rueiliu.space
 adguard-dns.com
 adguard-ironhide.ultima-thule.ru
@@ -893,6 +892,7 @@ ord01.dnscry.pt
 ordns.he.net
 ore-dns.bitdefender.net
 orpi.privado.ovh
+osefcorp.duckdns.org
 outdoorchair.us
 p0.freedns.controld.com
 p1.freedns.controld.com
