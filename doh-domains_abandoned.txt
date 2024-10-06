@@ -71,7 +71,6 @@ dns.cloudseriousshit.com
 dns.comeonjames.club
 dns.containerpi.com
 dns.cybershell.xyz
-dns.d365.in
 dns.dns-over-https.com
 dns.dnsoverhttps.net
 dns.dnssilo.top
@@ -200,7 +199,6 @@ jp.gridns.xyz
 jp.ray0512.win
 jp.rslvr.eu
 kaitain.restena.lu
-krtekvpn.duckdns.org
 kswro.web.id
 la.ray0512.win
 lion.yazilimatolye.com
