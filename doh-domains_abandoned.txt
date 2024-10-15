@@ -101,7 +101,6 @@ dns.mathewakhil.online
 dns.melalandia.tk
 dns.milkpie.one
 dns.mipauns.com
-dns.mo0on15.com
 dns.moog.sh
 dns.ndo.dev
 dns.nixnet.xyz
@@ -111,8 +110,7 @@ dns.post-factum.tk
 dns.privilab.net
 dns.pumplex.com
 dns.repressoh.it
-dns.schlagheck.berlin
-dns.siry.de
+dns.rootlab.top
 dns.stvsk.ml
 dns.surfshark.com
 dns.truong.fi
