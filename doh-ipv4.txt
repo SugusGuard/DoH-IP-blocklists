@@ -12,10 +12,14 @@
 3.34.32.82          # kr-sel.doh.sb
 3.75.122.89         # yovbak.com
 3.108.130.184       # pihole.aws.ketan.dev
-3.168.132.25        # dns.api.rackspacecloud.com
-3.168.132.47        # dns.api.rackspacecloud.com
-3.168.132.103       # dns.api.rackspacecloud.com
-3.168.132.108       # dns.api.rackspacecloud.com
+3.162.125.2         # dns.api.rackspacecloud.com
+3.162.125.16        # dns.api.rackspacecloud.com
+3.162.125.115       # dns.api.rackspacecloud.com
+3.162.125.117       # dns.api.rackspacecloud.com
+3.171.85.61         # ricko.is
+3.171.85.85         # ricko.is
+3.171.85.107        # ricko.is
+3.171.85.110        # ricko.is
 3.210.144.250       # dns.api.preview.globus.org
 3.225.31.214        # dns.api.preview.globus.org
 3.230.239.88        # dns.api.staging.globuscs.info
@@ -39,7 +43,7 @@
 8.20.247.20         # ns2.recursive.dnsbycomodo.com
 8.26.56.26          # ns1.recursive.dnsbycomodo.com
 8.210.222.108       # blog.kimiblock.top
-8.218.33.237        # doh.buzz
+8.218.33.237        # doh.beauty
 8.218.96.243        # blog.kimiblock.top
 8.218.192.32        # doh.beauty
 9.9.9.9             # dns.quad9.net
@@ -723,10 +727,7 @@
 23.21.157.88        # shalenkov.dev
 23.21.234.173       # shalenkov.dev
 23.23.244.21        # dns.api.preview.globus.org
-23.81.206.202       # secure.avastdns.com
 23.81.246.121       # chromium.dns.nextdns.io
-23.83.129.246       # secure.avastdns.com
-23.83.132.138       # secure.avastdns.com
 23.88.6.31          # doh.niyawe.de
 23.94.211.166       # dns.novali.date
 23.105.231.66       # ru-mow.doh.sb
@@ -741,7 +742,7 @@
 34.50.83.147        # dns.bebasid.com
 34.75.163.154       # dns.carson-family.com
 34.80.137.209       # bluemood.me
-34.85.128.249       # nvi-dns.bitdefender.net
+34.85.128.249       # dns.bitdefender.net
 34.142.9.100        # lon-dns.bitdefender.net
 34.146.42.208       # tky-dns.bitdefender.net
 34.159.232.134      # fra-dns.bitdefender.net
@@ -755,6 +756,7 @@
 35.177.36.34        # dns.tesem.dog
 35.190.14.201       # use-application-dns.net
 35.192.98.208       # iow-dns.bitdefender.net
+35.194.211.102      # adg.rueiliu.space
 35.195.3.94         # block.abstergo.it
 35.227.226.142      # doh.safesurfer.io
 35.230.82.92        # adguard.ef67daisuki.club
@@ -793,7 +795,6 @@
 44.227.76.166       # dns.d4d.moe
 44.232.93.239       # ad.justincounts.com
 45.11.45.11         # public-dns-b.dns.sb
-45.32.75.24         # cleanbrowsing.org
 45.32.79.76         # chromium.dns.nextdns.io
 45.32.244.195       # gateway.fomichev.cloud
 45.33.60.119        # dns.elemental.software
@@ -804,7 +805,7 @@
 45.66.10.26         # adguard.dekonix.ru
 45.67.81.23         # dns.aquilenet.fr
 45.67.84.132        # lon01.dnscry.pt
-45.67.219.208       # doh.la.ahadns.net
+45.67.219.208       # doh.westus.pi-dns.com
 45.76.113.31        # doh-2.seby.io
 45.76.154.33        # doh.dscloud.me
 45.77.25.253        # doh003.280blocker.net
@@ -827,7 +828,7 @@
 45.142.244.144      # console.carestyle.org
 45.144.235.228      # dns.nas-server.ru
 45.147.54.7         # uk.teradns.org
-45.153.187.96       # dnsse-noads.alekberg.net
+45.153.187.96       # dnsse.alekberg.net
 45.155.169.132      # orpi.privado.ovh
 45.155.169.203      # adguard.kss.ovh
 45.155.171.163      # doh.42l.fr
@@ -850,14 +851,14 @@
 46.250.226.242      # dot-sg.blahdns.com
 46.250.236.61       # doh.rezhajul.io
 47.76.49.241        # dns.imaicool.com
-47.76.134.157       # doh.buzz
+47.76.134.157       # doh.beauty
 47.93.39.229        # local.sufly.top
 47.101.129.255      # dns.zzuhacker.cn
 47.107.121.125      # dns.ikataruto.com
 47.108.203.206      # dns.zzuhacker.cn
 47.109.85.197       # dns.imaicool.com
 47.242.16.95        # doh.beauty
-47.242.67.184       # doh.buzz
+47.242.67.184       # doh.beauty
 47.243.233.55       # sunnygyl.com
 49.0.2.184          # dns1.irumatech.com
 49.12.43.208        # clean.dnsforge.de
@@ -879,6 +880,7 @@
 51.158.147.92       # dns.novg.net
 51.158.166.51       # id.terra.my.id
 51.159.67.129       # dns.novg.net
+51.161.115.44       # cleanbrowsing.org
 51.178.29.75        # dns.alloxr.info
 51.222.16.174       # shield1.eranext.net
 52.5.193.27         # dns.api.test.globuscs.info
@@ -908,10 +910,6 @@
 54.172.110.180      # us02.dns4me.net
 54.187.149.240      # us01.dns4me.net
 54.224.16.96        # dns.pumpkinvrar.com
-54.230.21.25        # ricko.is
-54.230.21.65        # ricko.is
-54.230.21.115       # ricko.is
-54.230.21.118       # ricko.is
 54.233.155.240      # dns.joaofidelix.com.br
 60.250.231.81       # tw2.ooroot.com
 61.222.113.97       # dns.ceai.com.tw
@@ -945,11 +943,10 @@
 74.208.85.60        # doh.phdns3.lonet.org
 74.208.208.172      # dns.narl.app
 75.75.77.197        # doh.xfinity.com
-75.75.77.198        # doh2.gslb2.xfinity.com
-76.76.2.11          # family.freedns.controld.com
+76.76.2.11          # freedns.controld.com
 76.76.21.21         # arashi.eu.org
-76.76.21.22         # dns.vishalk.com
-76.76.21.123        # dns.vishalk.com
+76.76.21.98         # dns.vishalk.com
+76.76.21.164        # dns.vishalk.com
 76.223.37.67        # dns.thegoodsource.net
 76.223.54.146       # gclouddns.com
 77.68.50.239        # dns.connect.fail
@@ -987,6 +984,7 @@
 80.90.179.4         # dns.nullgate.net
 80.125.181.179      # pates.services.sfr.fr.casepp.sfr.fr
 80.147.149.90       # 3dns.eu
+80.152.203.134      # doh.kekew.info
 80.156.145.201      # dns.t53.de
 80.211.133.9        # nsec.arnor.org
 80.249.144.245      # dns.mihanentalpo.me
@@ -1033,7 +1031,7 @@
 87.250.251.101      # dns.yandex.ru
 87.253.131.216      # meganerd.nl
 88.87.69.93         # adguard.onlyfriends.info
-88.89.207.169       # dandelionsprout.asuscomm.com
+88.90.21.160        # dandelionsprout.asuscomm.com
 88.99.65.186        # pihole1.hoerli.net
 88.99.98.111        # doh.dns-ga.de
 88.198.91.187       # doh.centraleu.pi-dns.com
@@ -1055,7 +1053,7 @@
 91.106.132.51       # home.wriedts.de
 91.107.162.2        # doh.abraservice.xyz
 91.192.102.204      # mailkyb.co
-91.198.156.20       # doh.nic.lv
+91.198.156.20       # doh.lv
 91.217.86.4         # dns.tls-data.de
 91.239.27.199       # testaghome.meshkov.info
 91.239.96.35        # privacydns.go6lab.si
@@ -1174,13 +1172,12 @@
 104.21.46.152       # crypto.sx
 104.21.48.226       # ahadns.net
 104.21.49.145       # darya.persiannit.net
-104.21.49.234       # basic.bravedns.com
+104.21.49.234       # bravedns.com
 104.21.50.235       # ikarosalpha.xyz
 104.21.51.76        # guard.sntrk.ru
 104.21.53.69        # dns.silentlybren.com
 104.21.55.112       # doh.apad.pro
 104.21.55.144       # gztech.me
-104.21.55.250       # dns.hanahira.dev
 104.21.57.234       # doh.ccb-net.it
 104.21.60.198       # sundalandia.pp.ua
 104.21.61.188       # dns.iki.my.id
@@ -1190,6 +1187,7 @@
 104.21.65.52        # doh.disconnect.app
 104.21.66.160       # doh.zephyrus.id
 104.21.69.35        # dns.jstockley.com
+104.21.70.74        # adblockersite.com
 104.21.70.99        # takhtakh.domyah.net
 104.21.71.180       # doh-sg.blahdns.com
 104.21.72.114       # dns.d365.in
@@ -1208,14 +1206,14 @@
 104.21.94.126       # dnsforfamily.com
 104.21.95.199       # adguard-dns.com
 104.26.2.137        # blitz.ahadns.com
-104.26.3.137        # blitz-setup.ahadns.com
+104.26.3.137        # blitz.ahadns.com
 104.26.14.167       # dns.gamban.com
 104.26.15.167       # dns.gamban.com
 104.36.86.181       # geg01.dnscry.pt
 104.128.62.173      # doh.dns.sb
 104.128.190.108     # cvt01.dnscry.pt
 104.192.102.132     # coe01.dnscry.pt
-104.198.12.197      # dns.bitdefender.net
+104.198.12.197      # ore-dns.bitdefender.net
 104.200.18.74       # dns.bobstrecansky.com
 104.200.67.194      # lax02.dnscry.pt
 104.236.116.148     # ns.00dani.me
@@ -1240,6 +1238,7 @@
 109.250.204.39      # area51.mywire.org
 111.235.222.100     # dns.cwlys.com
 112.213.32.219      # syd.adfilter.net
+113.179.171.53      # tungdnsne.duckdns.org
 114.33.26.67        # dns.jundev.org
 114.33.130.84       # dns.keke125.com
 114.34.0.56         # adguard.shuting.idv.tw
@@ -1247,7 +1246,7 @@
 115.29.235.168      # dns.indust.me
 116.118.44.237      # adguard.cloudmini.net
 116.202.5.154       # adguard.ihatemy.live
-116.202.176.26      # dot.libredns.gr
+116.202.176.26      # doh.libredns.gr
 116.202.234.21      # dns.ihaveacloud.com
 116.203.32.217      # fdns1.dismail.de
 116.203.72.235      # dns.rin.sh
@@ -1260,7 +1259,6 @@
 120.233.47.193      # opencdn.jomodns.com
 121.122.121.41      # fwgw.orangepipc.mywire.org
 122.254.0.63        # h.gjrick.tw
-123.18.238.20       # tungdnsne.duckdns.org
 124.217.247.170     # yunyun.is.my.waifu.cz
 124.219.110.49      # doh.viatech.com.tw
 125.229.161.13      # dns.david888.com
@@ -1269,14 +1267,14 @@
 128.140.15.70       # privacy.plumedns.com
 128.199.154.79      # dns.scapetical.com
 129.80.39.60        # dns.stevenz.net
-129.146.12.195      # dns.us-phoenix-1.oraclecloud.com
+129.146.13.150      # dns.us-phoenix-1.oraclecloud.com
 129.146.238.240     # cloud.samutz.com
 129.150.45.4        # dns.huyhoangit.net
 129.151.162.166     # dns.oliviertv.co.za
 129.152.1.121       # dns.pesaventofilippo.com
 129.153.224.48      # dart.kpsn.org
 129.159.249.152     # dns2.guidocioni.it
-129.213.2.162       # dns.us-ashburn-1.oraclecloud.com
+129.213.4.166       # dns.us-ashburn-1.oraclecloud.com
 129.232.183.24      # pihole.datamatter.co.za
 130.59.31.80        # switch.ch
 130.59.31.248       # dns.switch.ch
@@ -1295,7 +1293,7 @@
 130.226.161.34      # deic-ore.anycast.censurfridns.dk
 131.186.19.137      # dns.txq.life
 131.186.63.141      # keithchung.hopto.org
-132.145.0.172       # dns.uk-london-1.oraclecloud.com
+132.145.4.175       # dns.uk-london-1.oraclecloud.com
 132.145.83.120      # tiger.dns.qwer.pw
 132.145.97.178      # dns.vmath.my.id
 132.145.98.168      # emby.rasp.tv
@@ -1324,6 +1322,7 @@
 138.3.208.111       # vm.mytm.cc
 138.3.243.43        # doh.dns1.lonet.org
 138.68.80.228       # dns.almir1904.eu
+138.199.40.58       # doh1.b-cdn.net
 138.201.81.119      # doh.dns-ga.de
 138.201.92.216      # dns.molinero.dev
 138.236.128.100     # cluster-0.gac.edu
@@ -1361,7 +1360,6 @@
 142.132.230.65      # dns.alvosec.com
 143.47.51.218       # dnsvps.familiamv.net
 143.47.188.43       # dns1.pietjacobs.be
-143.244.50.82       # doh1.b-cdn.net
 143.244.128.32      # in-blr.doh.sb
 144.22.212.131      # dns.retakecs.com
 144.22.247.219      # ibuki.cgnat.net
@@ -1388,7 +1386,7 @@
 146.112.41.5        # doh.umbrella.com
 146.190.28.85       # dns.dekedin.me
 146.190.225.122     # ps1.modr.club
-146.255.56.98       # doh.applied-privacy.net
+146.255.56.98       # doh.appliedprivacy.net
 147.78.0.8          # dotdns.cryptroute.com
 147.78.178.170      # de-fra.doh.sb
 147.78.178.171      # de-fra.doh.sb
@@ -1398,7 +1396,6 @@
 147.162.22.1        # galileo.math.unipd.it
 147.189.136.104     # yul01.dnscry.pt
 149.28.101.119      # pluton.plan9-dns.com
-149.28.121.105      # cleanbrowsing.org
 149.28.144.189      # dns.mikrotikrumahan.my.id
 149.34.191.234      # doh.funtopia.tv
 149.88.64.107       # dns.886886886.xyz
@@ -1477,7 +1474,6 @@
 163.47.117.176      # adl.adfilter.net
 163.172.68.245      # dns-fr-psv1.cloudsides.com
 163.172.131.116     # stratus.bugz.fr
-164.90.207.7        # adblockersite.com
 164.90.245.136      # dns.unx.io
 164.92.237.199      # fra1.eyecay.xyz
 165.22.61.129       # sg-sin.doh.sb
@@ -1512,6 +1508,7 @@
 172.64.41.4         # mozilla.cloudflare-dns.com
 172.64.41.5         # opera.cloudflare-dns.com
 172.64.42.1         # odoh.cloudflare-dns.com
+172.64.80.1         # dns.hanahira.dev
 172.65.132.254      # paranoia.mydns.network
 172.65.133.172      # family.mydns.network
 172.65.135.187      # adblock.mydns.network
@@ -1553,7 +1550,6 @@
 172.67.165.144      # pooblet.co.za
 172.67.166.14       # lindung.pp.ua
 172.67.171.30       # doh.apad.pro
-172.67.174.210      # dns.hanahira.dev
 172.67.177.65       # guard.sntrk.ru
 172.67.178.160      # clearweb.woodbridge.club
 172.67.182.154      # dns.paesa.es
@@ -1564,7 +1560,7 @@
 172.67.189.162      # dns.repressoh.it
 172.67.193.126      # doh.ccb-net.it
 172.67.193.192      # antivirus.bebasid.com
-172.67.195.148      # basic.bravedns.com
+172.67.195.148      # bravedns.com
 172.67.197.42       # doh.killtw.im
 172.67.198.185      # dns.unerror.network
 172.67.198.229      # dns.daemon.za.net
@@ -1583,6 +1579,7 @@
 172.67.214.246      # basic.rethinkdns.com
 172.67.216.46       # dns.lista.my.id
 172.67.216.77       # adguard.twotigers.xyz
+172.67.221.26       # adblockersite.com
 172.67.222.126      # takhtakh.domyah.net
 172.86.65.4         # chromium.dns.nextdns.io
 172.104.93.80       # jp.tiar.app
@@ -1742,8 +1739,6 @@
 174.68.248.77       # dohdot.coxlab.net
 174.138.29.175      # doh.tiar.app
 175.24.154.66       # dns.rubyfish.cn
-175.176.163.241     # dns.glorydns.com
-175.176.167.241     # dns.glorydns.com
 176.9.1.117         # dnsforge.de
 176.9.25.158        # dns.svoi.dev
 176.9.93.198        # dnsforge.de
@@ -1891,7 +1886,7 @@
 194.233.68.107      # chandr1000.net
 194.233.68.184      # kilabit.info
 194.242.2.2         # dns.mullvad.net
-194.242.2.3         # adblock.dns.mullvad.net
+194.242.2.3         # adblock.doh.mullvad.net
 194.242.2.4         # base.dns.mullvad.net
 194.242.2.5         # extended.dns.mullvad.net
 194.242.2.6         # family.dns.mullvad.net
@@ -1903,8 +1898,11 @@
 198.54.117.10       # safeservedns.com
 198.54.117.11       # safeservedns.com
 198.58.111.139      # us.doh.cloudveil.org
+198.98.183.36       # secure.avastdns.com
+198.98.183.52       # secure.avastdns.com
+198.98.183.132      # secure.avastdns.com
 198.140.141.46      # ams01.dnscry.pt
-198.180.150.12      # rgnet-iad.anycast.uncensoreddns.org
+198.180.150.12      # rgnet-iad.anycast.censurfridns.dk
 198.244.189.180     # dns-privacy.puregeni.us
 198.251.67.7        # agh.fltn.us
 198.251.90.89       # adblock.any.dns.nixnet.xyz
@@ -1938,7 +1936,7 @@
 207.148.95.1        # wyx.cloud
 207.154.211.203     # adb.aadityakushwaha.com
 207.154.238.154     # dns.cloudtrust.solutions
-207.246.68.103      # ns3.com
+207.246.68.103      # n0.eu
 207.246.87.96       # kronos.plan9-dns.com
 208.67.220.2        # sandbox.opendns.com
 208.67.220.123      # familyshield.opendns.com
@@ -1946,6 +1944,7 @@
 208.67.222.2        # sandbox.opendns.com
 208.67.222.123      # familyshield.opendns.com
 208.67.222.222      # dns.opendns.com
+208.167.248.121     # cleanbrowsing.org
 209.141.34.95       # adblock.lv1.dns.nixnet.xyz
 209.141.45.27       # las01.dnscry.pt
 209.208.26.145      # dns.dyn1.de
@@ -1954,7 +1953,7 @@
 211.95.16.131       # www.c-dns.com
 212.51.138.251      # doh.datacore.ch
 212.60.61.246       # doh.quickline.ch
-212.60.63.246       # dot.quickline.ch
+212.60.63.246       # doh.quickline.ch
 212.126.59.63       # dns0.eu
 212.185.200.25      # dns1.conne.net
 212.227.237.22      # dns.mo0on15.com
@@ -1978,8 +1977,8 @@
 216.230.232.29      # chromium.dns.nextdns.io
 216.238.80.219      # helios.plan9-dns.com
 216.238.107.112     # br.servers.legat.ml
-217.0.43.2          # dns.telekom.de
 217.0.43.50         # dns.telekom.de
+217.0.43.146        # dns.telekom.de
 217.12.245.109      # dns.ronc.ru
 217.61.98.63        # nsec.arnor.org
 217.160.70.42       # ns1.opennameserver.org
