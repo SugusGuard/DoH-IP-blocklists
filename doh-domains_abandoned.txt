@@ -16,7 +16,6 @@ adguard.beliefanx.cn
 adguard.bitteeinbyte.de
 adguard.dessoi.cloud
 adguard.dtness.com
-adguard.gbrossi.com.br
 adguard.k0rap.com
 adguard.kantinyoyok.xyz
 adguard.lista.my.id
@@ -243,6 +242,7 @@ quic.lol
 resolver-eu.lelux.fi
 resolver.noaddns.com
 resolver.unstoppable.io
+resolver2.ipv6-sandbox.opendns.com
 sby-doh.limotelu.org
 sdns.233py.com
 secure.onedns.cc
