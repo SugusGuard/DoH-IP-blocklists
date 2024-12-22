@@ -197,10 +197,8 @@ externalmobiel.lekdijk.online
 family.dns.doubleangels.com
 fi.doh.dns.snopyta.org
 groupy.ga
-gustamadh.dynv6.net
 himedns.com
 hk.rslvr.eu
-home27.duckdns.org
 hydra.plan9-ns1.com
 hydroxlab.ru.com
 i.233py.com
@@ -215,7 +213,6 @@ jp.68360612.xyz
 jp.gridns.xyz
 jp.ray0512.win
 jp.rslvr.eu
-jurre-home.duckdns.org
 kaitain.restena.lu
 kracon.anycast.censurfridns.dk
 kswro.web.id
@@ -244,6 +241,7 @@ resolver-eu.lelux.fi
 resolver.noaddns.com
 sby-doh.limotelu.org
 sdns.233py.com
+sdns22.gkonuralp.com
 secure.onedns.cc
 securedns.vendorvista.xyz
 sg.adhole.org
